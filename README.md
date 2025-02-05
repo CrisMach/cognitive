@@ -11,7 +11,7 @@ Demonstrar a experiência com o serviço
 
 ---
 ## Descrição das etapas e comentários
-De forma bastante resumida, os passos demonstrados no laboratório ![alt text](https://web.dio.me/lab/azure-cognitive-search-utilizando-ai-search-para-indexacao-e-consulta-de-dados/learning/dc177426-0df3-48d0-804d-03118ca4c541?back=/track/microsoft-fundamentos-de-ia?raw=true) 
+De forma bastante resumida, os passos demonstrados no laboratório https://web.dio.me/lab/azure-cognitive-search-utilizando-ai-search-para-indexacao-e-consulta-de-dados/learning/dc177426-0df3-48d0-804d-03118ca4c541?back=/track/microsoft-fundamentos-de-ia 
 
 
 ## Sentiment and opinion mining tryout
