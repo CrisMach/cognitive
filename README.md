@@ -1,17 +1,17 @@
 <h1>
     <a href="https://www.dio.me/">
      <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
-    <span> Laboratório Análise de Sentimentos e Opiniões com Language Studio </span>
+    <span> Laboratório Buscas Cognitivas (Cognitive Search) </span>
 </h1>
 
-Repositório desenvolvido para mostrar a experiência com a análise de sentimentos do Language Studio.
+Repositório desenvolvido para comentar sobre a conclusão deste laboratório.
 
 ## Objetivo
 Demonstrar a experiência com o serviço
 
 ---
 ## Descrição das etapas e comentários
-Foram criadas 4 frases e analisadas afim de idenfificar o nível de confiança do serviço para cada uma delas e entender o processo de análise:
+De forma bastante resumida, os passos demonstrados no laboratório ![alt text](https://web.dio.me/lab/azure-cognitive-search-utilizando-ai-search-para-indexacao-e-consulta-de-dados/learning/dc177426-0df3-48d0-804d-03118ca4c541?back=/track/microsoft-fundamentos-de-ia) 
 
 
 ## Sentiment and opinion mining tryout
